@@ -1,3 +1,8 @@
+---
+title: "The history of pie"
+date: 2021-08-24
+---
+
 So... first blog post ever ey..?
 
 Let's discuss the history of pies.
