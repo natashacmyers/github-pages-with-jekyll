@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: The mysteries of pie
+author: natashacmyers
+email: natashacmyers@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Pie is essentially the most mysterious thing on the planet. Think schrodinger's cat, ten fold. Nobody knows what's going on inside those pies. 
+  What's inside them? Is it even food? Is it even cooked? So many questions. 
+  We will discuss in detail throughout this site.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: natashacmyers # DO NOT include the @ character, or else the build will fail!
+github_username:  natashacmyers # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
