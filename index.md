@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am Tash, today I will be talking to you about the wonderful world of... pie.
